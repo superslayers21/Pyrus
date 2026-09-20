@@ -1,0 +1,6 @@
+allowBuilds:
+  '@rubynetwork/rh': true
+  bufferutil: false
+  esbuild: false
+  sharp: false
+  sqlite3: false
